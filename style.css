@@ -1,0 +1,151 @@
+ body{ 
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+ }
+section{
+    height: 420px;
+    }
+.top-banner{
+    margin-left: 5%;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.top-banner-text{
+    font-family: 'Yeseva One', cursive;
+    font-size: 50px;
+    font-weight: 500;
+    margin: 2%;
+    padding-left: 2%;
+    border-left: 5px solid;
+    border-image: linear-gradient(#ff5959, #ff5956);
+    border-image-slice: 1;
+    }
+.top-banner-highlight{
+        color:#ffac59;
+    }
+.link-btn{
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 400;
+}
+.top-banner-image{
+    width:80%;
+    
+}
+.align{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 60px;}
+
+.blue-color{
+    font-size: 50px;
+    font-weight: 600;
+    color:#130f3a;
+    text-align: center;
+    }
+.year-highlight{
+    color:#ffac59;
+}
+.mission-three{
+   display:flex;
+   justify-content: space-around;
+   margin-left: 7%;
+   margin-right:7%;
+   margin-top: 3%;
+   
+   }
+.illustration{
+    width:40%;
+}
+.mission-item{
+    border-radius: 10px;
+    
+}
+.mission-color{
+    background-color: #edf5f6;
+}
+.vision-color{
+    background-color: #ffeeee;
+}
+.goals{
+    background-color: #fff4d5;
+}
+.third-width{
+    width: 80%;
+    border-radius: 10px;
+    padding-left:5%;
+    padding-bottom:5%;
+    padding-right:5%;
+    }
+h2{
+   font-size: 40px;
+   margin: 0;
+}
+
+.develop-container{
+    float:flex;
+    margin-top: 15%;
+
+}
+.global-container{
+    float:flex;
+    margin-top: 7%;
+}
+
+.develop-image{
+    width:80%;
+}
+.develop-width{
+    width:40%;
+    float:left;
+    margin-left: 7%;
+    padding-left: 2%;
+    margin-top: 0;
+}
+.left{
+    width:35%;
+    float:left;
+    margin-left:10%;
+    padding-left: 2%;
+}
+.right{
+    width:40%;
+    float:left;
+    padding-left: 2%;
+}
+.image-container{
+    display:flex;
+}
+.image{
+    width: 70%;
+    padding-left:10%;
+    padding-bottom:5%;
+    padding-right:5%;
+}
+.footer-text{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: white;
+}
+.footer-text-highlight{
+    color:#ff5959 ;
+}
+.footer-container{
+    height:50px;
+    text-align: center;
+    background-color: black;
+    padding: 5%;
+}
+.footer-paragraph{
+    color:white;
+}
+
+
